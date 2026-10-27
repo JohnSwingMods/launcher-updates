@@ -1,5 +1,25 @@
 {
- "versione": "1.0",
- "data": "2026-10-15",
- "note": {}
+ "versione": "1.1",
+ "data": "2026-10-27",
+ "note": {
+  "it": ["Ora è tutto GRATIS, per tutti: menu in gioco (LB + RB), camere nuove, Spider-Cam, mappa 3D della città, ora del giorno.",
+         "Il codice dell'app è open source (GPL-3.0) su GitHub.",
+         "Se ti piace il progetto puoi sostenerlo su Patreon: resta tutto gratis."],
+  "en": ["Everything is FREE now, for everyone: in-game menu (LB + RB), new cameras, Spider-Cam, 3D city map, time of day.",
+         "The app is open source (GPL-3.0) on GitHub.",
+         "If you like the project you can support it on Patreon: everything stays free."],
+  "de": ["Jetzt ist alles KOSTENLOS, für alle: Menü im Spiel (LB + RB), neue Kameras, Spider-Cam, 3D-Stadtkarte, Tageszeit.",
+         "Die App ist Open Source (GPL-3.0) auf GitHub.",
+         "Wenn dir das Projekt gefällt, kannst du es auf Patreon unterstützen: alles bleibt kostenlos."],
+  "fr": ["Tout est GRATUIT maintenant, pour tout le monde : menu en jeu (LB + RB), nouvelles caméras, Spider-Cam, carte 3D de la ville, heure de la journée.",
+         "L'application est open source (GPL-3.0) sur GitHub.",
+         "Si le projet te plaît, tu peux le soutenir sur Patreon : tout reste gratuit."],
+  "es": ["Ahora todo es GRATIS, para todos: menú en el juego (LB + RB), cámaras nuevas, Spider-Cam, mapa 3D de la ciudad, hora del día.",
+         "La app es de código abierto (GPL-3.0) en GitHub.",
+         "Si te gusta el proyecto puedes apoyarlo en Patreon: todo sigue siendo gratis."]
+ },
+ "pagina": "https://github.com/JohnSwingMods/sm2-enhanced/releases/tag/v1.1",
+ "exe": "https://github.com/JohnSwingMods/sm2-enhanced/releases/download/v1.1/SM2.Enhanced.exe",
+ "sha256": "50b53baeaa0f398e550ae71d0382b5bb4ac6200dfe8803e8c59410bdc53b9c66",
+ "byte": 17885172
 }
