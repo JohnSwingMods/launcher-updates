@@ -1,25 +1,45 @@
 {
- "versione": "1.1",
- "data": "2026-10-27",
+ "versione": "1.2",
+ "data": "2026-10-28",
  "note": {
-  "it": ["Ora è tutto GRATIS, per tutti: menu in gioco (LB + RB), camere nuove, Spider-Cam, mappa 3D della città, ora del giorno.",
-         "Il codice dell'app è open source (GPL-3.0) su GitHub.",
-         "Se ti piace il progetto puoi sostenerlo su Patreon: resta tutto gratis."],
-  "en": ["Everything is FREE now, for everyone: in-game menu (LB + RB), new cameras, Spider-Cam, 3D city map, time of day.",
-         "The app is open source (GPL-3.0) on GitHub.",
-         "If you like the project you can support it on Patreon: everything stays free."],
-  "de": ["Jetzt ist alles KOSTENLOS, für alle: Menü im Spiel (LB + RB), neue Kameras, Spider-Cam, 3D-Stadtkarte, Tageszeit.",
-         "Die App ist Open Source (GPL-3.0) auf GitHub.",
-         "Wenn dir das Projekt gefällt, kannst du es auf Patreon unterstützen: alles bleibt kostenlos."],
-  "fr": ["Tout est GRATUIT maintenant, pour tout le monde : menu en jeu (LB + RB), nouvelles caméras, Spider-Cam, carte 3D de la ville, heure de la journée.",
-         "L'application est open source (GPL-3.0) sur GitHub.",
-         "Si le projet te plaît, tu peux le soutenir sur Patreon : tout reste gratuit."],
-  "es": ["Ahora todo es GRATIS, para todos: menú en el juego (LB + RB), cámaras nuevas, Spider-Cam, mapa 3D de la ciudad, hora del día.",
-         "La app es de código abierto (GPL-3.0) en GitHub.",
-         "Si te gusta el proyecto puedes apoyarlo en Patreon: todo sigue siendo gratis."]
+  "it": [
+   "Controller: l'app ora riconosce bene tutti i pad (nome vero, tasti giusti, anche due pad insieme). Nella pagina Controller il pad non muove più l'app mentre provi i tasti.",
+   "Tasti a schermo automatici: con un pad PlayStation nel gioco compaiono i tasti PlayStation, con un pad Xbox quelli Xbox.",
+   "Controller › Camera: inverti la camera su/giù e sinistra/destra, per tutte le camere.",
+   "Nuovo: Impostazioni › Segnala un problema (e pulsante Segnala negli errori).",
+   "Installer: gli archivi RAR5 si aprono anche con un 7-Zip vecchio, conversione DDS più veloce, niente più effetto che lampeggia sulle schede."
+  ],
+  "en": [
+   "Controllers: the app now recognizes every pad properly (real name, right buttons, even two pads at once). On the Controller page the pad no longer moves around the app while you test buttons.",
+   "Automatic on-screen buttons: PlayStation buttons in game with a PlayStation pad, Xbox buttons with an Xbox pad.",
+   "Controller › Camera: invert the camera up/down and left/right, for every camera.",
+   "New: Settings › Report a problem (and a Report button on errors).",
+   "Installer: RAR5 archives open even with an old 7-Zip, faster DDS conversion, no more flickering on the cards."
+  ],
+  "de": [
+   "Controller: Die App erkennt jetzt jedes Pad richtig (echter Name, richtige Tasten, auch zwei Pads gleichzeitig). Auf der Controller-Seite steuert das Pad die App nicht mehr, während du Tasten testest.",
+   "Automatische Bildschirmtasten: PlayStation-Tasten im Spiel mit einem PlayStation-Pad, Xbox-Tasten mit einem Xbox-Pad.",
+   "Controller › Kamera: Kamera oben/unten und links/rechts umkehren, für alle Kameras.",
+   "Neu: Einstellungen › Problem melden (und ein Melden-Knopf bei Fehlern).",
+   "Installer: RAR5-Archive öffnen sich auch mit einem alten 7-Zip, schnellere DDS-Umwandlung, kein Flackern mehr auf den Karten."
+  ],
+  "fr": [
+   "Manettes : l'app reconnaît maintenant bien toutes les manettes (vrai nom, bonnes touches, même deux manettes à la fois). Sur la page Manette, la manette ne déplace plus l'app pendant que tu testes les touches.",
+   "Touches à l'écran automatiques : touches PlayStation en jeu avec une manette PlayStation, touches Xbox avec une manette Xbox.",
+   "Manette › Caméra : inverser la caméra haut/bas et gauche/droite, pour toutes les caméras.",
+   "Nouveau : Paramètres › Signaler un problème (et un bouton Signaler sur les erreurs).",
+   "Installateur : les archives RAR5 s'ouvrent même avec un vieux 7-Zip, conversion DDS plus rapide, plus de clignotement sur les cartes."
+  ],
+  "es": [
+   "Mandos: la app ahora reconoce bien todos los mandos (nombre real, botones correctos, incluso dos mandos a la vez). En la página Mando, el mando ya no mueve la app mientras pruebas los botones.",
+   "Botones en pantalla automáticos: botones PlayStation en el juego con un mando PlayStation, botones Xbox con un mando Xbox.",
+   "Mando › Cámara: invierte la cámara arriba/abajo e izquierda/derecha, para todas las cámaras.",
+   "Nuevo: Ajustes › Informar de un problema (y un botón Informar en los errores).",
+   "Instalador: los archivos RAR5 se abren aunque tengas un 7-Zip antiguo, conversión DDS más rápida, sin parpadeo en las tarjetas."
+  ]
  },
- "pagina": "https://github.com/JohnSwingMods/sm2-enhanced/releases/tag/v1.1",
- "exe": "https://github.com/JohnSwingMods/sm2-enhanced/releases/download/v1.1/SM2.Enhanced.exe",
- "sha256": "50b53baeaa0f398e550ae71d0382b5bb4ac6200dfe8803e8c59410bdc53b9c66",
- "byte": 17885172
+ "pagina": "https://github.com/JohnSwingMods/sm2-enhanced/releases/tag/v1.2",
+ "exe": "https://github.com/JohnSwingMods/sm2-enhanced/releases/download/v1.2/SM2.Enhanced.exe",
+ "sha256": "3b3acc2f5f4a07b2a28fbefc4bf3eca55b5b524c839c4c4a43955d4611888a33",
+ "byte": 17950340
 }
