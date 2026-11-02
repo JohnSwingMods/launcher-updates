@@ -1,35 +1,45 @@
 {
- "versione": "1.2.1",
+ "versione": "1.2.2",
  "data": "2026-11-02",
  "note": {
   "it": [
-   "Aggiorna Dolphin ovunque: l'app aggiorna anche il tuo Dolphin, non solo quello che ha installato lei (se è in una cartella dove può scrivere).",
-   "Camera del tuffo: dopo un tuffo dal palazzo senza saltare, una pressione di L3 aggancia la camera della picchiata fino alla ragnatela o a terra (con Amazing e Cinematica si spegneva lasciando L3).",
-   "Mappa 3D: i posti salvati dalla mappa 3D sono esatti dopo il primo viaggio (prima il segnalino sembrava più in basso del punto vero)."
+   "Tastiera insieme al controller, senza impostare niente (WASD, frecce, Spazio...): i tasti sono in Comandi. P apre il menu in gioco.",
+   "Il menu in gioco (LB + RB) ora si apre con qualsiasi controller che funziona nel gioco; se l'app non legge il tuo controller te lo dice e si usa mouse e tastiera.",
+   "Zip pronti per Android e Linux / Steam Deck nella pagina della release: non serve Windows.",
+   "Sistemato 'tutto installato ma niente texture HD' (Dolphin che leggeva un'altra cartella) e avviso se Dolphin è troppo vecchio.",
+   "I costumi aggiunti a mano ora si cambiano bene, anche dal menu in gioco; Installa Dolphin più robusto con le connessioni lente."
   ],
   "en": [
-   "Update Dolphin anywhere: the app can update your own Dolphin too, not only the one it installed (if it's in a folder where it can write).",
-   "Dive camera: after a natural dive off a building, one press of L3 locks the dive camera until you shoot a web or land (with Amazing and Cinematic it switched off when you released L3).",
-   "3D map: places saved from the 3D map are exact after your first trip (before, the marker looked lower than the real spot)."
+   "Keyboard support alongside your controller, no setup (WASD, arrows, Space...): see Controls. P opens the in-game menu.",
+   "The in-game menu (LB + RB) now opens with any controller that works in the game; if the app can't read yours it tells you and you can use mouse and keyboard.",
+   "Ready-made zips for Android and Linux / Steam Deck on the release page: no Windows needed.",
+   "Fixed 'everything installed but no HD textures' (Dolphin reading a different folder) and a warning if Dolphin is too old.",
+   "Suits added by hand now switch properly, also from the in-game menu; Install Dolphin is sturdier on slow connections."
   ],
   "de": [
-   "Dolphin überall aktualisieren: Die App aktualisiert jetzt auch dein eigenes Dolphin, nicht nur das von ihr installierte (wenn es in einem beschreibbaren Ordner liegt).",
-   "Sturzflug-Kamera: Nach einem Sprung vom Gebäude ohne Absprung hält ein Druck auf L3 die Sturzflug-Kamera bis zum Netz oder zur Landung (mit Amazing und Kinematisch ging sie beim Loslassen von L3 aus).",
-   "3D-Karte: Auf der 3D-Karte gespeicherte Orte sind nach der ersten Reise genau (vorher wirkte die Markierung tiefer als der echte Punkt)."
+   "Tastatur zusätzlich zum Controller, ohne Einrichtung (WASD, Pfeile, Leertaste...): siehe Steuerung. P öffnet das Menü im Spiel.",
+   "Das Menü im Spiel (LB + RB) öffnet sich jetzt mit jedem Controller, der im Spiel funktioniert; wenn die App deinen nicht lesen kann, sagt sie es dir und du nutzt Maus und Tastatur.",
+   "Fertige Zips für Android und Linux / Steam Deck auf der Release-Seite: kein Windows nötig.",
+   "Behoben: 'alles installiert, aber keine HD-Texturen' (Dolphin las einen anderen Ordner), und eine Warnung, wenn Dolphin zu alt ist.",
+   "Selbst hinzugefügte Anzüge wechseln jetzt richtig, auch im Menü im Spiel; 'Dolphin installieren' ist robuster bei langsamen Verbindungen."
   ],
   "fr": [
-   "Mettre à jour Dolphin partout : l'app met aussi à jour ton propre Dolphin, pas seulement celui qu'elle a installé (s'il est dans un dossier où elle peut écrire).",
-   "Caméra du plongeon : après un plongeon depuis un immeuble sans sauter, un appui sur L3 garde la caméra du piqué jusqu'à la toile ou l'atterrissage (avec Amazing et Cinématique elle s'arrêtait en relâchant L3).",
-   "Carte 3D : les lieux enregistrés depuis la carte 3D sont exacts après le premier voyage (avant, le repère semblait plus bas que le vrai point)."
+   "Clavier en plus de la manette, sans réglage (WASD, flèches, Espace...) : voir Commandes. P ouvre le menu en jeu.",
+   "Le menu en jeu (LB + RB) s'ouvre maintenant avec n'importe quelle manette qui marche dans le jeu ; si l'app ne lit pas la tienne, elle te le dit et tu utilises souris et clavier.",
+   "Zips prêts pour Android et Linux / Steam Deck sur la page de la version : pas besoin de Windows.",
+   "Corrigé : « tout installé mais pas de textures HD » (Dolphin lisait un autre dossier), et un avertissement si Dolphin est trop ancien.",
+   "Les costumes ajoutés à la main se changent bien, aussi depuis le menu en jeu ; « Installer Dolphin » est plus solide avec une connexion lente."
   ],
   "es": [
-   "Actualiza Dolphin en cualquier sitio: la app también actualiza tu propio Dolphin, no solo el que instaló ella (si está en una carpeta donde puede escribir).",
-   "Cámara del picado: tras lanzarte de un edificio sin saltar, una pulsación de L3 fija la cámara del picado hasta la telaraña o el suelo (con Amazing y Cinemática se apagaba al soltar L3).",
-   "Mapa 3D: los lugares guardados desde el mapa 3D quedan exactos tras el primer viaje (antes el marcador parecía más bajo que el punto real)."
+   "Teclado junto al mando, sin configurar nada (WASD, flechas, Espacio...): míralo en Controles. P abre el menú en el juego.",
+   "El menú en el juego (LB + RB) ahora se abre con cualquier mando que funcione en el juego; si la app no lee el tuyo te lo dice y usas ratón y teclado.",
+   "Zips listos para Android y Linux / Steam Deck en la página de la versión: no hace falta Windows.",
+   "Arreglado 'todo instalado pero sin texturas HD' (Dolphin leía otra carpeta) y un aviso si Dolphin es demasiado antiguo.",
+   "Los trajes añadidos a mano ya se cambian bien, también desde el menú en el juego; Instalar Dolphin es más robusto con conexiones lentas."
   ]
  },
- "pagina": "https://github.com/JohnSwingMods/sm2-enhanced/releases/tag/v1.2.1",
- "exe": "https://github.com/JohnSwingMods/sm2-enhanced/releases/download/v1.2.1/SM2.Enhanced.exe",
- "sha256": "eadbbc684866c3596323a5a04e51d25aaba994a3050e27ad4ae3950555bc1c69",
- "byte": 17951092
+ "pagina": "https://github.com/JohnSwingMods/sm2-enhanced/releases/tag/v1.2.2",
+ "exe": "https://github.com/JohnSwingMods/sm2-enhanced/releases/download/v1.2.2/SM2.Enhanced.exe",
+ "sha256": "3d51fcfd38e261c6d509fcd8943845fb89f807b6836052b197ae4ff2363385f0",
+ "byte": 17967559
 }
