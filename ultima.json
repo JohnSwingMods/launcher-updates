@@ -1,45 +1,35 @@
 {
- "versione": "1.2",
- "data": "2026-10-28",
+ "versione": "1.2.1",
+ "data": "2026-11-02",
  "note": {
   "it": [
-   "Controller: l'app ora riconosce bene tutti i pad (nome vero, tasti giusti, anche due pad insieme). Nella pagina Controller il pad non muove più l'app mentre provi i tasti.",
-   "Tasti a schermo automatici: con un pad PlayStation nel gioco compaiono i tasti PlayStation, con un pad Xbox quelli Xbox.",
-   "Controller › Camera: inverti la camera su/giù e sinistra/destra, per tutte le camere.",
-   "Nuovo: Impostazioni › Segnala un problema (e pulsante Segnala negli errori).",
-   "Installer: gli archivi RAR5 si aprono anche con un 7-Zip vecchio, conversione DDS più veloce, niente più effetto che lampeggia sulle schede."
+   "Aggiorna Dolphin ovunque: l'app aggiorna anche il tuo Dolphin, non solo quello che ha installato lei (se è in una cartella dove può scrivere).",
+   "Camera del tuffo: dopo un tuffo dal palazzo senza saltare, una pressione di L3 aggancia la camera della picchiata fino alla ragnatela o a terra (con Amazing e Cinematica si spegneva lasciando L3).",
+   "Mappa 3D: i posti salvati dalla mappa 3D sono esatti dopo il primo viaggio (prima il segnalino sembrava più in basso del punto vero)."
   ],
   "en": [
-   "Controllers: the app now recognizes every pad properly (real name, right buttons, even two pads at once). On the Controller page the pad no longer moves around the app while you test buttons.",
-   "Automatic on-screen buttons: PlayStation buttons in game with a PlayStation pad, Xbox buttons with an Xbox pad.",
-   "Controller › Camera: invert the camera up/down and left/right, for every camera.",
-   "New: Settings › Report a problem (and a Report button on errors).",
-   "Installer: RAR5 archives open even with an old 7-Zip, faster DDS conversion, no more flickering on the cards."
+   "Update Dolphin anywhere: the app can update your own Dolphin too, not only the one it installed (if it's in a folder where it can write).",
+   "Dive camera: after a natural dive off a building, one press of L3 locks the dive camera until you shoot a web or land (with Amazing and Cinematic it switched off when you released L3).",
+   "3D map: places saved from the 3D map are exact after your first trip (before, the marker looked lower than the real spot)."
   ],
   "de": [
-   "Controller: Die App erkennt jetzt jedes Pad richtig (echter Name, richtige Tasten, auch zwei Pads gleichzeitig). Auf der Controller-Seite steuert das Pad die App nicht mehr, während du Tasten testest.",
-   "Automatische Bildschirmtasten: PlayStation-Tasten im Spiel mit einem PlayStation-Pad, Xbox-Tasten mit einem Xbox-Pad.",
-   "Controller › Kamera: Kamera oben/unten und links/rechts umkehren, für alle Kameras.",
-   "Neu: Einstellungen › Problem melden (und ein Melden-Knopf bei Fehlern).",
-   "Installer: RAR5-Archive öffnen sich auch mit einem alten 7-Zip, schnellere DDS-Umwandlung, kein Flackern mehr auf den Karten."
+   "Dolphin überall aktualisieren: Die App aktualisiert jetzt auch dein eigenes Dolphin, nicht nur das von ihr installierte (wenn es in einem beschreibbaren Ordner liegt).",
+   "Sturzflug-Kamera: Nach einem Sprung vom Gebäude ohne Absprung hält ein Druck auf L3 die Sturzflug-Kamera bis zum Netz oder zur Landung (mit Amazing und Kinematisch ging sie beim Loslassen von L3 aus).",
+   "3D-Karte: Auf der 3D-Karte gespeicherte Orte sind nach der ersten Reise genau (vorher wirkte die Markierung tiefer als der echte Punkt)."
   ],
   "fr": [
-   "Manettes : l'app reconnaît maintenant bien toutes les manettes (vrai nom, bonnes touches, même deux manettes à la fois). Sur la page Manette, la manette ne déplace plus l'app pendant que tu testes les touches.",
-   "Touches à l'écran automatiques : touches PlayStation en jeu avec une manette PlayStation, touches Xbox avec une manette Xbox.",
-   "Manette › Caméra : inverser la caméra haut/bas et gauche/droite, pour toutes les caméras.",
-   "Nouveau : Paramètres › Signaler un problème (et un bouton Signaler sur les erreurs).",
-   "Installateur : les archives RAR5 s'ouvrent même avec un vieux 7-Zip, conversion DDS plus rapide, plus de clignotement sur les cartes."
+   "Mettre à jour Dolphin partout : l'app met aussi à jour ton propre Dolphin, pas seulement celui qu'elle a installé (s'il est dans un dossier où elle peut écrire).",
+   "Caméra du plongeon : après un plongeon depuis un immeuble sans sauter, un appui sur L3 garde la caméra du piqué jusqu'à la toile ou l'atterrissage (avec Amazing et Cinématique elle s'arrêtait en relâchant L3).",
+   "Carte 3D : les lieux enregistrés depuis la carte 3D sont exacts après le premier voyage (avant, le repère semblait plus bas que le vrai point)."
   ],
   "es": [
-   "Mandos: la app ahora reconoce bien todos los mandos (nombre real, botones correctos, incluso dos mandos a la vez). En la página Mando, el mando ya no mueve la app mientras pruebas los botones.",
-   "Botones en pantalla automáticos: botones PlayStation en el juego con un mando PlayStation, botones Xbox con un mando Xbox.",
-   "Mando › Cámara: invierte la cámara arriba/abajo e izquierda/derecha, para todas las cámaras.",
-   "Nuevo: Ajustes › Informar de un problema (y un botón Informar en los errores).",
-   "Instalador: los archivos RAR5 se abren aunque tengas un 7-Zip antiguo, conversión DDS más rápida, sin parpadeo en las tarjetas."
+   "Actualiza Dolphin en cualquier sitio: la app también actualiza tu propio Dolphin, no solo el que instaló ella (si está en una carpeta donde puede escribir).",
+   "Cámara del picado: tras lanzarte de un edificio sin saltar, una pulsación de L3 fija la cámara del picado hasta la telaraña o el suelo (con Amazing y Cinemática se apagaba al soltar L3).",
+   "Mapa 3D: los lugares guardados desde el mapa 3D quedan exactos tras el primer viaje (antes el marcador parecía más bajo que el punto real)."
   ]
  },
- "pagina": "https://github.com/JohnSwingMods/sm2-enhanced/releases/tag/v1.2",
- "exe": "https://github.com/JohnSwingMods/sm2-enhanced/releases/download/v1.2/SM2.Enhanced.exe",
- "sha256": "3b3acc2f5f4a07b2a28fbefc4bf3eca55b5b524c839c4c4a43955d4611888a33",
- "byte": 17950340
+ "pagina": "https://github.com/JohnSwingMods/sm2-enhanced/releases/tag/v1.2.1",
+ "exe": "https://github.com/JohnSwingMods/sm2-enhanced/releases/download/v1.2.1/SM2.Enhanced.exe",
+ "sha256": "eadbbc684866c3596323a5a04e51d25aaba994a3050e27ad4ae3950555bc1c69",
+ "byte": 17951092
 }
